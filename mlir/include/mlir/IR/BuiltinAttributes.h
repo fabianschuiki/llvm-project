@@ -20,6 +20,7 @@ class BoolAttr;
 class DenseIntElementsAttr;
 class FlatSymbolRefAttr;
 class FunctionType;
+class Identifier;
 class IntegerSet;
 class IntegerType;
 class Location;
